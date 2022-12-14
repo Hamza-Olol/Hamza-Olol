@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hamza. I went from building physical infrastructure as a Civil Engineer to building virtual infrastructure as a Platform Engineer. 
+- 👀 I’m interested in everything DevOps.
+- 🌱 I’m currently learning different DevOps tools and getting comfortable using AWS, Terraform and Kubernetes.
+- 📫 You can reach me on Linkedin, my Profile can be found [here](https://www.linkedin.com/in/hamza-olol-701064173/)
