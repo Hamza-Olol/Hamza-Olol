@@ -1,6 +1,6 @@
 # Hi, I'm Hamza 👋
 
-A Platform Engineer working with all things Cloud, Platform and DevOps - AWS, Kubernetes, Terraform and Go.
+A Platform Engineer working with all things Cloud, Platform and DevOps - AWS, Kubernetes, Terraform, Go and more
 
 Former Civil Engineer — infrastructure just moved to the cloud.
 
